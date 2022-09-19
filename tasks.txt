@@ -1,0 +1,20 @@
+Wilna, Manager, Jaco, 12-10-2021, No
+Jaco, Programmer, Task, 12-10-2021, Yes
+Jaco, Teller, Assign a new task, 12-10-2021, Yes
+Anel, 1 , 1, 12-10-2021, No
+Ansi, 2 , 1, 12-04-2021, No
+Anel, 3 , 1, 12-10-2021, No
+Ansi, 4 , 1, 12-10-2021, No
+Ansi, 3 , 1, 12-04-2021, No
+Piet, List, List the tasks, 12-10-2021, No
+admin, Register, Register new users using the task_manager.py program, 12-10-2021, Yes
+admin, Assign, Assign tasks using the task_manager.py program, 12-10-2021, Yes
+Piet, Customer service, Assist customers with queries, 12-10-2021, No
+Piet, Skryf, Skryf Woorde, 12-10-2021, No
+Paul, Lees, Lees Boeke, 12-10-2021, No
+Paul, Sing, Sing liedjies, 12-10-2021, No
+Wilna, Sales, Drive Sales, 12-04-2021, No
+Jaco, Tuine, Tuindienste, 12-10-2021, No
+Chane, UX Designer, Design User experience, 12-10-2021, Yes
+Ruan, Gas, Gas Installations, 12-10-2021, Yes
+Cobus, Project Manager, Manage branch revamps and maintenance, 01-10-2020, Yes

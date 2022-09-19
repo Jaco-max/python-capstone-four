@@ -1,0 +1,10 @@
+admin, adm1n
+Jaco, 123
+Piet, @123
+Paul, Paul
+Wilna, Wiln@
+Chane, Ch@ne
+Ruan, Ru@n
+Ansi, Ansi
+Anel, Anel
+Cobus, C0bus
